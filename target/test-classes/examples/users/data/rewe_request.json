@@ -1,0 +1,15 @@
+{
+  "amount": "29.79",
+  "currency": "USD",
+  "custom_category": "Catering",
+  "datetime": "2020-07-24T10:15:30+01:00",
+  "description": "Food and drinks",
+  "last_co2_footprint": "unknown",
+  "mcc": "5411",
+  "merchant": "REWE Dieter Schneider oHG",
+  "merchant_location": "Freiburg",
+  "profile_id": "REWE Kunde 001",
+  "timezone": "GMT+2",
+  "transaction_id": "ecolytiq_test_003_FIXED"
+}
+

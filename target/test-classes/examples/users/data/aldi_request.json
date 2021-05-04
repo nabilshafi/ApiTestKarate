@@ -1,0 +1,14 @@
+{
+  "amount": "50.70",
+  "currency": "EUR",
+  "custom_category": "Groceries",
+  "datetime": "2020-07-24T10:15:30+01:00",
+  "description": "Food",
+  "last_co2_footprint": "unknonw",
+  "mcc": "5411",
+  "merchant": "ALDI 17018",
+  "merchant_location": "ALDI Merseburg-Süd",
+  "profile_id": "ALDI_Kunde_001",
+  "timezone": "GMT+2",
+  "transaction_id": "ecolytiq_test_001_FIXED"
+}

@@ -1,10 +1,10 @@
 # ApiTestKarate
 
-Created Integration Tests for endpoints
+## Created Integration Tests for endpoints
 ○ (A) POST /txp/transaction and
 ○ (B) POST /txp/transaction/range with Karate
 
-Test the following functionalities against different set of input.
+## Test the following functionalities against different set of input.
 
 * Checked /txp/transaction response against different co2_categories.
 * Checked /txp/transaction response against different currencies.
@@ -18,7 +18,7 @@ Test the following functionalities against different set of input.
 * Checked /txp/transaction/range response size is against the empty array.
 
 
-Following test cases not given expected output or failed
+## Following test cases not given expected output or failed
 
 * Checked /txp/transaction response against different currencies.
   * Expected USD : Actual EUR
